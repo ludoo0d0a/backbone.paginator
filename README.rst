@@ -3,6 +3,8 @@ backbone.paginator
 
 |travis-status|_
 
+edit: Add postData in this fork to support JSON data posted when request. 
+
 A pageable, drop-in replacement for Backbone.Collection called
 Backbone.PageableCollection.
 
