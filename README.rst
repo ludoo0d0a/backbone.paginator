@@ -5,6 +5,8 @@ backbone.paginator
 
 edit: Add postData in this fork to support JSON data posted when request. 
 
+https://github.com/backbone-paginator/backbone.paginator/issues/300
+
 A pageable, drop-in replacement for Backbone.Collection called
 Backbone.PageableCollection.
 
